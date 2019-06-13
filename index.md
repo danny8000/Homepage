@@ -1,4 +1,4 @@
-# Google
+## Google
 
 * [Gmail](https://mail.google.com/mail/u/0/)
 * Contacts
@@ -40,7 +40,7 @@
 * [Inspired Teaching](https://www.inspiredteachingschool.org/apps/pages/index.jsp?uREC_ID=1189392&type=d&pREC_ID=1432766)
 
 
-# Git
+## Git
 
 * [Github Pages](https://help.github.com/en/categories/github-pages-basics)
 
