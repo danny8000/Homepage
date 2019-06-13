@@ -22,7 +22,7 @@
       <script>
         $( document ).ready(function() {
             console.log( "ready!" );
-            $( "h2" ).nextAll().andSelf().wrap( "<div class='no-break'></div>" );
+            $( "h2" ).next().andSelf().wrapAll( "<div class='no-break'></div>" );
         });
       </script>
    </body>
