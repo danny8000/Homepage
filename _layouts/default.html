@@ -22,7 +22,7 @@
       <script>
         $( document ).ready(function() {
             console.log( "ready!" );
-            $( "h2" ).next().css( "background-color", "red" );
+            $( "h2" ).next().andSelf().wrap( "<div class='no-break'></div>" );
         });
       </script>
    </body>
