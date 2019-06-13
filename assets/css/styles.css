@@ -5,7 +5,11 @@
 
 
 article {
-  -webkit-column-width: 180px;
-     -moz-column-width: 180px;
-          column-width: 180px;
+  column-width: 240px;
+  column-rule: 1px dotted #999;
+  column-gap: 2em;
+}
+
+article ul {
+   break-inside: avoid; 
 }
