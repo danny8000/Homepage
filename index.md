@@ -1,17 +1,39 @@
-# Links
+# Google
+
+* [Gmail](https://mail.google.com/mail/u/0/)
+* Contacts
+* [Calendar](https://calendar.google.com)
+* Drive
+* Keep
+* Photos
+
+## Microsoft
+
+* Outlook
+* OneDrive
 
 ## Banking
 
 * [Wells Fargo](https://wellsfargo.com/)
-* https://www.usaa.com/
+* [USAA](https://www.usaa.com/)
+* Citibank
+* PenFed
+* Chase
+* Capital One
+
+## Shopping
+
+* [Amazon](https://smile.amazon.com/)
+
 
 ## Weather
 
-* https://radar.weather.gov/Conus/Loop/NatLoop.gif
+* [NatLoop](https://radar.weather.gov/Conus/Loop/NatLoop.gif)
 
 ## News
 
-* https://arstechnica.com/
+* [Ars Technica](https://arstechnica.com/)
+* [Hacker News](https://news.ycombinator.com/news)
 
 ## Education
 
@@ -20,7 +42,5 @@
 
 # Git
 
+* [Github Pages](https://help.github.com/en/categories/github-pages-basics)
 
-https://help.github.com/en/categories/github-pages-basics
-
-https://github.com/pages-themes/minimal
