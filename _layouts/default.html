@@ -15,14 +15,15 @@
       <section>
         <article>
           {{ content }}
-        <article>
+        </article>
       </section>
       <footer>
       </footer>
-   <script>
-     
-  $( "h2" ).next().css( "background-color", "red" );
-
-          </script>
+      <script>
+        $( document ).ready(function() {
+            console.log( "ready!" );
+            $( "h2" ).next().css( "background-color", "red" );
+        });
+      </script>
    </body>
 </html>
