@@ -2,3 +2,10 @@
 .h2 {
   margin-below: .5em; 
 }
+
+
+article {
+  -webkit-column-width: 180px;
+     -moz-column-width: 180px;
+          column-width: 180px;
+}
