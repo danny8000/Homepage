@@ -1,1 +1,24 @@
-theme: jekyll-theme-minimal
+# Base configuration
+#permalink: /:title
+exclude: ["README.md"]
+#highlighter: rouge
+
+# Title
+name: Dan's Homepage
+subtitle: Hyperlinks
+
+baseurl: '/Homepage/'
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: Daniel Murphy
+  url: https://github.com/danny8000
+
+# Style Variables
+brand_color: "#2cb34a"
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- page: "Links"
+  path: index
