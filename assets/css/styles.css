@@ -10,6 +10,6 @@ article {
   column-gap: 2em;
 }
 
-article ul {
+.no-break {
    break-inside: avoid; 
 }
