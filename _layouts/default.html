@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ title }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/styles.css?v=" | append: site.github.build_revision | relative_url }}">
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
   </head>
   <body>
       <header>
@@ -22,7 +22,12 @@
       <script>
         $( document ).ready(function() {
             console.log( "ready!" );
-            $( "h2" ).next().andSelf().wrapAll( "<div class='no-break'></div>" );
+            //$( "h2" ).next("ul").andSelf().wrap( "<div class='no-break'></div>" );
+          
+            $("h2").each(function(index) {
+		          $(this).next("ul").andSelf().wrapAll("<div class='no-break' />")
+            });
+          
         });
       </script>
    </body>
