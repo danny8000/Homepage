@@ -1,14 +1,13 @@
 * https://github.com/danny8000?tab=repositories
 * https://news.ycombinator.com/over?points=200
+* https://mail.protonmail.com/
+* https://www.washingtonpost.com/news/capital-weather-gang/
+* https://www.weather.gov/forecastmaps
 
-https://mail.protonmail.com/
-https://www.washingtonpost.com/news/capital-weather-gang/
-https://www.weather.gov/forecastmaps
-
-https://www.justwatch.com/us/watchlist
+* https://www.justwatch.com/us/watchlist
 
 
-https://www.metacritic.com/browse/movies/genre/metascore/family?view=condensed
+* https://www.metacritic.com/browse/movies/genre/metascore/family?view=condensed
 
 
 
@@ -82,19 +81,19 @@ https://www.metacritic.com/browse/movies/genre/metascore/family?view=condensed
 			<li><a href="http://mashable.com/">Mashable</a></li>
 			<li><a href="http://www.theverge.com/">The Verge</a></li>
 			</ul>
-		##Design
+		## Design
 		<ul>
 			<li><a href="http://core77.com/">core77</a></li>
 		</ul>
-		<p>&nbsp;</p>
-		#<strong>Tech </strong>
-		  ##Magazines
+
+		# Tech 
+		  ## Magazines
 		  <ul>
 		  	<li><a href="http://www.pcmag.com/">PC Mag</a></li>
 		  	<li><a href="http://www.pcworld.com/">PC World</a></li>
 		  	<li><a href="http://www.macworld.com/">MacWorld </a></li>
   			</ul>
-##Tech News &amp; Reviews
+## Tech News &amp; Reviews
 <ul>
 	<li><a href="http://news.ycombinator.com/over?points=200">Hacker News</a></li>
 	<li><a href="http://arstechnica.com/">arstechnica</a></li>
@@ -102,7 +101,7 @@ https://www.metacritic.com/browse/movies/genre/metascore/family?view=condensed
 	<li><a href="http://www.techmeme.com/">Techmeme</a></li>
 	<li><a href="http://www.anandtech.com/">Anandtech</a></li>
 </ul>
-##Tech Blogs
+## Tech Blogs
 <ul>
 	<li><a href="http://www.davidpogue.com/">Pogue </a></li>
 	<li><a href="http://allthingsd.com/">allthingsd.com</a></li>
@@ -141,24 +140,25 @@ https://www.metacritic.com/browse/movies/genre/metascore/family?view=condensed
 			<li><a href="http://www.autoblog.com/">autoblog</a></li>
 			<li></li>
 		</ul>
-		#News
+		
+# News
 			
-			##News Aggregators
+			## News Aggregators
 			<ul>
 				<li><a href="http://news.google.com/">Google News</a></li>
 				<li><a href="http://news.yahoo.com/">Yahoo News</a></li>
 			</ul>
-			##News Papers
+			## News Papers
 			<ul>
 				<li><a href="http://www.nytimes.com/">The New York Times</a></li>
 				<li><a href="http://www.washingtonpost.com/">Washington Post</a></li>
 			</ul>
-			##News Blogs
+			## News Blogs
 			<ul>
 				<li><a href="http://www.huffingtonpost.com/">Huffington Post</a></li>
 				<li><a href="http://www.drudgereport.com/">Drudgereport</a></li>
 			</ul>
-			##British News
+			## British News
 			<ul>
 				<li><a href="http://news.ft.com/">FT.com</a></li>
 				<li><a href="http://news.bbc.co.uk/">BBC On-Line</a></li>
@@ -166,7 +166,7 @@ https://www.metacritic.com/browse/movies/genre/metascore/family?view=condensed
 				<li><a href="http://www.telegraph.co.uk/">telegraph.co.uk</a></li>
 				<li><a href="http://www.timesonline.co.uk/">timesonline</a></li>
 		</ul>
-		#Google
+		# Google
 			<ul>
 				<li><a href="http://www.google.com/">Search</a></li>
 				<li><a href="https://mail.google.com/">Gmail</a></li>
@@ -179,7 +179,7 @@ https://www.metacritic.com/browse/movies/genre/metascore/family?view=condensed
 				<li><a href="http://www.thehillishome.com/">Hill is home</a></li>
 			</ul>
 
-		#Personal			
+		# Personal			
 
 			<ul>
 				<li><a href="http://www.danielgmurphy.com/">http://www.danielgmurphy.com/</a></li>
