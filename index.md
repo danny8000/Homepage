@@ -1,8 +1,8 @@
 <div>
 
-* https://github.com/danny8000?tab=repositories
-* https://news.ycombinator.com/over?points=200
-* https://mail.protonmail.com/
+* [GitHub danny8000](https://github.com/danny8000?tab=repositories)
+* [Hacker News](https://news.ycombinator.com/over?points=200)
+* [Proton Mail](https://mail.protonmail.com/)
 * https://www.washingtonpost.com/news/capital-weather-gang/
 * https://www.weather.gov/forecastmaps
 * https://www.justwatch.com/us/watchlist
@@ -240,7 +240,6 @@
 <div>
 
 # Personal			
-
 
 * <a href="http://www.danielgmurphy.com/">http://www.danielgmurphy.com/</a>
 * <a href="http://www.danielgmurphy.net/">http://www.danielgmurphy.net/</a>
