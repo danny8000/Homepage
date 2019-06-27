@@ -1,5 +1,5 @@
 /* CSS */
-.h2 {
+h1, h2, h3 {
   margin-below: .5em; 
 }
 
@@ -10,6 +10,6 @@ article {
   column-gap: 2em;
 }
 
-.no-break {
+article div {
    break-inside: avoid; 
 }
