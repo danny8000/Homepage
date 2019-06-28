@@ -1,5 +1,10 @@
+---
+title: Links
+---
 
-<div markdown=1>
+# Links
+
+<div markdown="1">
 
 ## Banking
 
@@ -11,7 +16,7 @@
 * [Wells Fargo](https://wellsfargo.com/)
 
 </div>
-<div markdown=1>
+<div markdown="1">
 
 ## British News
 
@@ -22,7 +27,7 @@
 * [Times Online](http://www.timesonline.co.uk/)
 
 </div>
-<div markdown=1>
+<div markdown="1">
 
 ## DC
 
@@ -30,21 +35,21 @@
 * [Greater Greater Washington](http://www.thehillishome.com/)
 
 </div>
-<div markdown=1>
+<div markdown="1">
 
 ## Education
 
 * [Inspired Teaching](https://www.inspiredteachingschool.org/apps/pages/index.jsp?uREC_ID=1189392&type=d&pREC_ID=1432766)
 
 </div>
-<div markdown=1>
+<div markdown="1">
 
 ## Email
 
 * [Proton Mail](https://mail.protonmail.com/)
 
 </div>
-<div markdown=1>
+<div markdown="1">
 
 ## Entertainment
 
@@ -52,14 +57,14 @@
 * [Metacritic](https://www.metacritic.com/browse/movies/genre/metascore/family?view=condensed)
 
 </div>
-<div markdown=1>
+<div markdown="1">
 
 ## Git
 
 * [GitHub danny8000](https://github.com/danny8000?tab=repositories)
 
 </div>
-<div markdown=1>
+<div markdown="1">
 
 ## Google
 
@@ -72,14 +77,14 @@
 * [Photos](https://photos.google.com/)
 
 </div>
-<div markdown=1>
+<div markdown="1">
 
 ## Learning
 
 * [Safari Books](https://learning.oreilly.com/home/)
 
 </div>
-<div markdown=1>
+<div markdown="1">
 
 ## Magazines
 
@@ -88,14 +93,14 @@
 * [PC World](http://www.pcworld.com/)
 
 </div>
-<div markdown=1>
+<div markdown="1">
 
 ## Microsoft
 
 * [OneDrive](https://onedrive.live.com)
 
 </div>
-<div markdown=1>
+<div markdown="1">
 
 ## News Aggregators
 
@@ -105,7 +110,7 @@
 * [Feedly](https://feedly.com/)
 
 </div>
-<div markdown=1>
+<div markdown="1">
 
 ## Newspapers
 
@@ -113,7 +118,7 @@
 * [Washington Post](http://www.washingtonpost.com/)
 
 </div>
-<div markdown=1>
+<div markdown="1">
 
 ## Personal
 
@@ -122,14 +127,14 @@
 * [http://www.danielgmurphy.com/](http://www.danielgmurphy.com/)
 
 </div>
-<div markdown=1>
+<div markdown="1">
 
 ## Shopping
 
 * [Amazon](https://smile.amazon.com/)
 
 </div>
-<div markdown=1>
+<div markdown="1">
 
 ## Tech News
 
@@ -141,21 +146,21 @@
 * [engadget](http://www.engadget.com/)
 
 </div>
-<div markdown=1>
+<div markdown="1">
 
 ## News Aggregators
 
 * [Hacker News](http://news.ycombinator.com/over?points=200)
 
 </div>
-<div markdown=1>
+<div markdown="1">
 
 ## Travel
 
 * [Flight Radar](https://www.flightradar24.com)
 
 </div>
-<div markdown=1>
+<div markdown="1">
 
 ## Weather
 
