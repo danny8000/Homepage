@@ -4,7 +4,7 @@ title: Links
 
 # Links
 
-
+<div markdown="1">
 
 ## Banking
 
@@ -16,6 +16,8 @@ title: Links
 * [Wells Fargo](https://wellsfargo.com/)
 
 
+</div>
+
 
 
 ## British News
@@ -26,16 +28,14 @@ title: Links
 * [The Telegraph](http://www.telegraph.co.uk/)
 * [Times Online](http://www.timesonline.co.uk/)
 
-
-
+<span>
 
 ## DC
 
 * [Greater Greater Washington](http://greatergreaterwashington.org/)
 * [Greater Greater Washington](http://www.thehillishome.com/)
 
-
-
+</span>
 
 ## Education
 
