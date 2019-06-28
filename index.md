@@ -1,10 +1,5 @@
----
-title: Links
----
 
-# Links
-
-<div markdown="1">
+<div markdown=1>
 
 ## Banking
 
@@ -15,10 +10,8 @@ title: Links
 * [USAA](https://www.usaa.com/)
 * [Wells Fargo](https://wellsfargo.com/)
 
-
 </div>
-
-
+<div markdown=1>
 
 ## British News
 
@@ -28,43 +21,45 @@ title: Links
 * [The Telegraph](http://www.telegraph.co.uk/)
 * [Times Online](http://www.timesonline.co.uk/)
 
-<span>
+</div>
+<div markdown=1>
 
 ## DC
 
 * [Greater Greater Washington](http://greatergreaterwashington.org/)
 * [Greater Greater Washington](http://www.thehillishome.com/)
 
-</span>
+</div>
+<div markdown=1>
 
 ## Education
 
 * [Inspired Teaching](https://www.inspiredteachingschool.org/apps/pages/index.jsp?uREC_ID=1189392&type=d&pREC_ID=1432766)
 
-
-
+</div>
+<div markdown=1>
 
 ## Email
 
 * [Proton Mail](https://mail.protonmail.com/)
 
-
-
+</div>
+<div markdown=1>
 
 ## Entertainment
 
 * [Just Watch](https://www.justwatch.com/us/watchlist)
 * [Metacritic](https://www.metacritic.com/browse/movies/genre/metascore/family?view=condensed)
 
-
-
+</div>
+<div markdown=1>
 
 ## Git
 
 * [GitHub danny8000](https://github.com/danny8000?tab=repositories)
 
-
-
+</div>
+<div markdown=1>
 
 ## Google
 
@@ -76,15 +71,15 @@ title: Links
 * [Keep](https://keep.google.com/)
 * [Photos](https://photos.google.com/)
 
-
-
+</div>
+<div markdown=1>
 
 ## Learning
 
 * [Safari Books](https://learning.oreilly.com/home/)
 
-
-
+</div>
+<div markdown=1>
 
 ## Magazines
 
@@ -92,15 +87,15 @@ title: Links
 * [PC Mag](http://www.pcmag.com/)
 * [PC World](http://www.pcworld.com/)
 
-
-
+</div>
+<div markdown=1>
 
 ## Microsoft
 
 * [OneDrive](https://onedrive.live.com)
 
-
-
+</div>
+<div markdown=1>
 
 ## News Aggregators
 
@@ -109,16 +104,16 @@ title: Links
 * [Hacker News](https://news.ycombinator.com/over?points=200)
 * [Feedly](https://feedly.com/)
 
-
-
+</div>
+<div markdown=1>
 
 ## Newspapers
 
 * [The New York Times](http://www.nytimes.com/)
 * [Washington Post](http://www.washingtonpost.com/)
 
-
-
+</div>
+<div markdown=1>
 
 ## Personal
 
@@ -126,15 +121,15 @@ title: Links
 * [danielgmurphy.wordpress.com](https://danielgmurphy.wordpress.com/)
 * [http://www.danielgmurphy.com/](http://www.danielgmurphy.com/)
 
-
-
+</div>
+<div markdown=1>
 
 ## Shopping
 
 * [Amazon](https://smile.amazon.com/)
 
-
-
+</div>
+<div markdown=1>
 
 ## Tech News
 
@@ -145,28 +140,30 @@ title: Links
 * [arstechnica](http://arstechnica.com/)
 * [engadget](http://www.engadget.com/)
 
-
-
+</div>
+<div markdown=1>
 
 ## News Aggregators
 
 * [Hacker News](http://news.ycombinator.com/over?points=200)
 
-
-
+</div>
+<div markdown=1>
 
 ## Travel
 
 * [Flight Radar](https://www.flightradar24.com)
 
-
-
+</div>
+<div markdown=1>
 
 ## Weather
 
 * [Capital Weather Gang](https://www.washingtonpost.com/news/capital-weather-gang/)
 * [NatLoop](https://radar.weather.gov/Conus/Loop/NatLoop.gif)
 * [NOAA, DC](http://www.erh.noaa.gov/lwx/)
-* [Weather Forcast Maps](https://www.weather.gov/forecastmaps)
+* [Weather Forecast Maps](https://www.weather.gov/forecastmaps)
 * [Weather UnderGround, DC](http://www.wunderground.com/cgi-bin/findweather/getForecast?query=20003/)
 * [Weather.com Hourly](http://www.weather.com/weather/hourbyhour/graph/Washington+DC+20003:4:US)
+
+</div>
