@@ -39,14 +39,14 @@ title: Links
 
 ## Banking
 
-* [Venmo](https://venmo.com/)
-* [Paypal
-* [Wells Fargo](https://wellsfargo.com/)
-* [Capital One](https://www.capitalone.com/)
-* [Chase](https://www.chase.com/)
-* [Citibank](https://www.citi.com/)
-* [PenFed](https://www.penfed.org/)
-* [USAA](https://www.usaa.com/)
+* [Venmo](https://venmo.com)
+* [Paypal](https://paypal.com)
+* [Wells Fargo](https://wellsfargo.com)
+* [Capital One](https://capitalone.com)
+* [Chase](https://chase.com)
+* [Citibank](https://citi.com)
+* [PenFed](https://penfed.org)
+* [USAA](https://usaa.com)
 
 </div>
 <div markdown="1">
