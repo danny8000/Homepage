@@ -2,7 +2,6 @@
 title: Links
 ---
 
-# Links
 
 <div markdown="1">
 
@@ -17,19 +16,31 @@ title: Links
 * [Photos](https://photos.google.com/)
 
 </div>
-
 <div markdown="1">
+
+## Email
+
+* [Proton Mail](https://mail.protonmail.com/)
+* [Outlook](https://outlook.com/)
+
+</div>
+<div markdown="1">
+
 ## Weather
+
 * [Capital Weather Gang](https://www.washingtonpost.com/news/capital-weather-gang/)
 * [NatLoop](https://radar.weather.gov/Conus/Loop/NatLoop.gif)
 * [Weather Forecast Maps](https://www.weather.gov/forecastmaps)
 * [Weather UnderGround](https://www.wunderground.com/forecast/us/dc/washington/20003)
+
 </div>
 
 <div markdown="1">
 
 ## Banking
 
+* [Venmo](https://venmo.com/)
+* [Paypal
 * [Wells Fargo](https://wellsfargo.com/)
 * [Capital One](https://www.capitalone.com/)
 * [Chase](https://www.chase.com/)
@@ -38,7 +49,6 @@ title: Links
 * [USAA](https://www.usaa.com/)
 
 </div>
-
 <div markdown="1">
 
 ## DC
@@ -46,7 +56,6 @@ title: Links
 * [Greater Greater Washington](http://greatergreaterwashington.org/)
 * [The Hill is Home](http://www.thehillishome.com/)
 * JD Land
-* 
 
 </div>
 <div markdown="1">
@@ -55,14 +64,6 @@ title: Links
 
 * [Inspired Teaching](https://www.inspiredteachingschool.org/)
 * Prodigy
-
-</div>
-<div markdown="1">
-
-## Email
-
-* [Proton Mail](https://mail.protonmail.com/)
-* [Outlook](https://outlook.com/)
 
 </div>
 <div markdown="1">
@@ -81,22 +82,17 @@ title: Links
 * [GitHub danny8000](https://github.com/danny8000?tab=repositories)
 
 </div>
-
 <div markdown="1">
 
 ## Learning
 
 * [Safari Books](https://learning.oreilly.com/home/)
+* Linkedin Learning
+* Cloud Acedemy
+* Microsoft
 
 </div>
-<div markdown="1">
 
-## Magazines
-
-
-
-</div>
-<hr>
 <div markdown="1">
 
 ## News Aggregators
@@ -107,28 +103,28 @@ title: Links
 * [Feedly](https://feedly.com)
 
 </div>
-
 <div markdown="1">
+
 ## Newspapers
-* [The New York Times](http://www.nytimes.com/)
-* [Washington Post](http://www.washingtonpost.com/)
-* LA Times
-* Chicago Tribune
-* [WSJ]https://wsj.com)
-* Boston Globe
-* NY Post
-* Cleveland Plain Dealer
-* Ruters
-* AP
+* [The New York Times](http://www.nytimes.com)
+* [Washington Post](http://www.washingtonpost.com)
+* [LA Times](https://www.latimes.com)
+* [Chicago Tribune](https://www.chicagotribune.com)
+* [WSJ](https://wsj.com)
+* [Boston Globe](https://www.bostonglobe.com)
+* [NY Post](https://nypost.com)
+* [Cleveland Plain Dealer]()
+* [Ruters]()
+* [AP]()
+
 </div>
 
 <div markdown="1">
 
 ## British News
 
-* FT
+* [FT](https://ft.com/)
 * [BBC On-Line](http://news.bbc.co.uk/)
-* [FT.com](http://news.ft.com/)
 * [Guardian ](https://www.theguardian.com/)
 * [The Telegraph](http://www.telegraph.co.uk/)
 * [Times Online](http://www.timesonline.co.uk/)
