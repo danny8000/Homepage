@@ -2,7 +2,6 @@
 title: Links
 ---
 
-
 <div markdown="1">
 
 ## Top Links
@@ -14,6 +13,7 @@ title: Links
 * [Google Maps ](http://maps.google.com/)
 * [Keep](https://keep.google.com/)
 * [Photos](https://photos.google.com/)
+* [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 
 </div>
 <div markdown="1">
@@ -21,7 +21,7 @@ title: Links
 ## Email
 
 * [Proton Mail](https://mail.protonmail.com/)
-* [Outlook](https://outlook.com/)
+* [Outlook](https://outlook.live.com/mail/0/inbox)
 
 </div>
 <div markdown="1">
@@ -36,6 +36,28 @@ title: Links
 </div>
 
 <div markdown="1">
+
+## Top Sites
+
+
+
+* Facebook
+* Pinterest
+
+* imdb
+* icloud
+
+
+espn
+
+## Video
+
+* YouTube
+* Hulu
+* NEtflix
+* Disney+
+* Spotify
+
 
 ## Banking
 
@@ -56,6 +78,7 @@ title: Links
 * [Greater Greater Washington](http://greatergreaterwashington.org/)
 * [The Hill is Home](http://www.thehillishome.com/)
 * JD Land
+* Popville
 
 </div>
 <div markdown="1">
@@ -72,7 +95,8 @@ title: Links
 
 * [Just Watch](https://www.justwatch.com/us/watchlist)
 * [Metacritic](https://www.metacritic.com/browse/movies/genre/metascore/family?view=condensed)
-* [Rotten Tomatos](https://www.rottentomatoes.com/browse/top-dvd-streaming/)
+* [Rotten Tomatoes](https://www.rottentomatoes.com/browse/top-dvd-streaming/)
+
 
 </div>
 <div markdown="1">
@@ -106,6 +130,7 @@ title: Links
 <div markdown="1">
 
 ## Newspapers
+
 * [The New York Times](http://www.nytimes.com)
 * [Washington Post](http://www.washingtonpost.com)
 * [LA Times](https://www.latimes.com)
@@ -114,11 +139,10 @@ title: Links
 * [Boston Globe](https://www.bostonglobe.com)
 * [NY Post](https://nypost.com)
 * [Cleveland Plain Dealer]()
-* [Ruters]()
+* [Ruters](https://www.reuters.com/)
 * [AP]()
 
 </div>
-
 <div markdown="1">
 
 ## British News
@@ -130,7 +154,6 @@ title: Links
 * [Times Online](http://www.timesonline.co.uk/)
 
 </div>
-
 <div markdown="1">
 
 ## TV and Business News
@@ -140,11 +163,19 @@ title: Links
 * Fox News
 * CNBC
 * Bloomberg
+
 </div>
+<div markdown="1">
 
 ## Local News
 
+* WTOP
+* FOX
+* NBC
+* CBS
+* ABC
 
+</div>
 <div markdown="1">
 
 ## Shopping
@@ -156,7 +187,6 @@ title: Links
 * Home Depot
 
 </div>
-
 <div markdown="1">
 
 ## Tech News
@@ -169,19 +199,19 @@ title: Links
 * [MacWorld ](http://www.macworld.com/)
 * [PC Mag](http://www.pcmag.com/)
 * [PC World](http://www.pcworld.com/)
+
 </div>
-
-
 <div markdown="1">
 
 ## Travel
 
 * [Flight Radar](https://www.flightradar24.com)
-* [Kayak](kayak.com)
-
+* [Kayak](https://kayak.com)
+* [skyscanner](https://skyscanner.com)
+* [tripadvisor](https://tripadvisor.com)
+* [yelp](https://yelp.com)
 
 </div>
-
 <div markdown="1">
 
 ## Personal
