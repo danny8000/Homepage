@@ -1,5 +1,6 @@
 # Base configuration
 #permalink: /:title
+markdown: kramdown
 exclude: ["README.md"]
 #highlighter: rouge
 
