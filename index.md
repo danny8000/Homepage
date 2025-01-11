@@ -6,14 +6,13 @@ title: Links
 
 ## Top Links
 
+* [Google Contacts](https://contacts.google.com){:target="_blank"}
+* [Google Calendar](https://calendar.google.com){:target="_blank"}
+* [OneDrive](https://www.onedrive.com){:target="_blank"}
+* [Google Maps](http://maps.google.com/){:target="_blank"}
+* [Google Keep](https://keep.google.com/){:target="_blank"}
+* [Google Photos](https://photos.google.com/){:target="_blank"}
 
-* [Google Contacts](https://contacts.google.com)
-* [Google Calendar](https://calendar.google.com)
-* [OneDrive](https://www.onedrive.com)
-* [Google Maps](http://maps.google.com/)
-* [Google Keep](https://keep.google.com/)
-* [Photos](https://photos.google.com/)
-* [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 
 </div>
 <div markdown="1">
@@ -37,29 +36,19 @@ title: Links
 
 <div markdown="1">
 
-## Top Sites
-
-Movies
-
-* Rotten Tomatos
-* Just Watch
+## Movies
 
 * [Just Watch](https://www.justwatch.com/us/watchlist)
 * [Metacritic](https://www.metacritic.com/browse/movies/genre/metascore/family?view=condensed)
 * [Rotten Tomatoes](https://www.rottentomatoes.com/browse/top-dvd-streaming/)
 
-## Video
+## Encyclopedias
 
-* YouTube
-* Hulu
-* NEtflix
-* Disney+
-* Spotify
-
+* [Wikipedia](https://en.wikipedia.org/wiki/Main_Page){:target="_blank"}
 
 ## Payments
 
-* Quickbooks
+* [Quickbooks](https://accounts.intuit.com/app/sign-in?app_group=QBO&asset_alias=Intuit.accounting.core.qbowebapp&app_environment=prod)
 * [Venmo](https://venmo.com)
 * [Paypal](https://paypal.com)
 
